@@ -22,5 +22,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: Quintenvw/webapp:latest
+          tags: quintenvw/webapp:latest
           push: false
